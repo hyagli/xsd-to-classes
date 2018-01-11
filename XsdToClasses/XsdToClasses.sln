@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XsdToClasses", "XsdToClasses\XsdToClasses.csproj", "{D76B0BD2-D822-461A-80D1-93BE3410D7C5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "XsdToClasses.Setup", "XsdToClasses.Setup\XsdToClasses.Setup.vdproj", "{308D6350-3BA7-4081-9C6A-B707D94A940B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XsdCodeGeneration", "..\XsdCodeGeneration\XsdCodeGeneration\XsdCodeGeneration.csproj", "{3038075D-63C6-495D-ACAC-6D1C0E31BF28}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://brnteamfs:8080/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = XsdToClasses.Setup\\XsdToClasses.Setup.vdproj
+		SccProjectName1 = XsdToClasses.Setup
+		SccLocalPath1 = XsdToClasses.Setup
+		SccProjectUniqueName2 = XsdToClasses\\XsdToClasses.csproj
+		SccProjectName2 = XsdToClasses
+		SccLocalPath2 = XsdToClasses
+		SccProjectUniqueName3 = ..\\XsdCodeGeneration\\XsdCodeGeneration\\XsdCodeGeneration.csproj
+		SccProjectName3 = ../XsdCodeGeneration/XsdCodeGeneration
+		SccLocalPath3 = ..\\XsdCodeGeneration\\XsdCodeGeneration
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D76B0BD2-D822-461A-80D1-93BE3410D7C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76B0BD2-D822-461A-80D1-93BE3410D7C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76B0BD2-D822-461A-80D1-93BE3410D7C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76B0BD2-D822-461A-80D1-93BE3410D7C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{308D6350-3BA7-4081-9C6A-B707D94A940B}.Debug|Any CPU.ActiveCfg = Debug
+		{308D6350-3BA7-4081-9C6A-B707D94A940B}.Debug|Any CPU.Build.0 = Debug
+		{308D6350-3BA7-4081-9C6A-B707D94A940B}.Release|Any CPU.ActiveCfg = Release
+		{308D6350-3BA7-4081-9C6A-B707D94A940B}.Release|Any CPU.Build.0 = Release
+		{3038075D-63C6-495D-ACAC-6D1C0E31BF28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3038075D-63C6-495D-ACAC-6D1C0E31BF28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3038075D-63C6-495D-ACAC-6D1C0E31BF28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3038075D-63C6-495D-ACAC-6D1C0E31BF28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

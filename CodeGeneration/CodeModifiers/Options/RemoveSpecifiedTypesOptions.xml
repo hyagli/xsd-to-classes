@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RemoveSpecifiedTypesOptions xmlns="http://BlueToque.ca/CodeGeneration/CodeModifiers/RemoveSpecifiedTypes.Options">
+  <Type Name=""/>
+  <Type Name=""/>
+  <Type Name=""/>
+</RemoveSpecifiedTypesOptions>

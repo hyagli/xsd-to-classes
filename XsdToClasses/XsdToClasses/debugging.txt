@@ -1,0 +1,4 @@
+﻿At this registry location:
+HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{596E7927-FC7C-4B31-8AE7-8C128FA0D637}\InprocServer32
+
+change the directory to the dir for the version you're debugging
